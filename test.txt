@@ -5,3 +5,5 @@ Second Commit text
 
 
 Implemented login feature
+
+Fixed password security

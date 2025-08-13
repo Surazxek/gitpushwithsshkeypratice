@@ -4,3 +4,6 @@ Second file Initial commit
 Second file 2nd commit
 
 Implemented login feature
+
+
+Fixed password security
